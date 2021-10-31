@@ -1,10 +1,10 @@
 # Solar_System
 
-#Context
+# Context
 This is a practical I did during a second-year course (IGR201) at Telecom Paris taught by Assistant Professor Kiwon Um.
 
 
-#Commands: (qwerty layout)
+# Commands: (qwerty layout)
 
 To change the camera position :
 → press ‘C’: outer space (free camera mode)
