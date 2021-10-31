@@ -33,3 +33,6 @@ In the free camera mode : press (and maintain if wanted)
 → ‘UP’ or ‘DOWN’: to decrease or increase (respectively) theta
 
 → ‘Q’ or ‘S’: to decrease or increase (respectively) r
+
+# For more information:
+check my blog post on this lab via this https://damir401.github.io/labs/igr201/
